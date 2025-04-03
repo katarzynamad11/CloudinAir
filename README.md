@@ -33,4 +33,3 @@ Libraries and Frameworks:
 ![Zarys](./CloudinAir.png)
 
 
-© 2025 Katarzyna Madej. All rights reserved.
