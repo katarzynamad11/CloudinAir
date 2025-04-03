@@ -12,7 +12,7 @@ Libraries and Frameworks:
 
 ### Features
 
-1) Registration for new users with secure password storage.
+1) Registration for new users with password storage.
 
 2) Login functionality with authentication.
 
